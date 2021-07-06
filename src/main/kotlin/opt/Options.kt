@@ -7,7 +7,6 @@ import util.UtilEnum
 import java.io.File
 import java.io.FileWriter
 import java.lang.Exception
-import java.util.*
 import kotlin.system.exitProcess
 
 class Options: OptionFun {

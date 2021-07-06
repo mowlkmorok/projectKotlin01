@@ -1,0 +1,10 @@
+It's just a simple app because I're learning program.
+
+I made a login application with text file query and this application the run on the terminal.
+
+
+There is a directory with app screenshots.
+
+
+
+Thanks!!
